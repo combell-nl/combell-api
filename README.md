@@ -1,7 +1,8 @@
-# Combell public API
+**Attention: please use [github.com/combell/combell-api](https://github.com/combell/combell-api) instead. This repo is archived and won't be updated anymore.**
 
-[![Build Status](https://travis-ci.org/combell-nl/combell-api.svg?branch=master)](https://travis-ci.org/combell-nl/combell-api)
-[![Coverage Status](https://coveralls.io/repos/github/combell-nl/combell-api/badge.svg?branch=master)](https://coveralls.io/github/combell-nl/combell-api?branch=master)
+---
+
+# Combell public API
 
 The *Combell public API project* wraps around [Guzzle](http://docs.guzzlephp.org/en/latest/) and offers *HMAC authentication*. You can use the client to easily connect to the Combell public API endpoint.
 
